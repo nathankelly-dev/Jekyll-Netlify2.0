@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		".nav__item--current {\n    color: white;\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,mBAAmB,CAAC,EAChB,KAAK,EAAE,KAAK,GACf"
+}
